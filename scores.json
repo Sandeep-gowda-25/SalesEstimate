@@ -1,0 +1,428 @@
+[
+    {
+        "company": "Remedium Life",
+        "pos": 0.1564,
+        "neg": 0.0,
+        "comp": 0.7094800000000001
+    },
+    {
+        "company": "Waaree Renewab.",
+        "pos": 0.12940000000000002,
+        "neg": 0.023399999999999997,
+        "comp": 0.45680999999999994
+    },
+    {
+        "company": "Dreamfolks Servi",
+        "pos": 0.07799999999999999,
+        "neg": 0.023299999999999998,
+        "comp": 0.23304999999999998
+    },
+    {
+        "company": "Jyoti Resins",
+        "pos": 0.0993,
+        "neg": 0.021700000000000004,
+        "comp": 0.43059000000000003
+    },
+    {
+        "company": "Esab India",
+        "pos": 0.10699999999999998,
+        "neg": 0.0325,
+        "comp": 0.35250000000000004
+    },
+    {
+        "company": "Fine Organic",
+        "pos": 0.11939999999999999,
+        "neg": 0.028100000000000003,
+        "comp": 0.37947
+    },
+    {
+        "company": "Crest Ventures",
+        "pos": 0.1139,
+        "neg": 0.0346,
+        "comp": 0.34027
+    },
+    {
+        "company": "Shilchar Tech.",
+        "pos": 0.1486,
+        "neg": 0.0124,
+        "comp": 0.52481
+    },
+    {
+        "company": "West Coast Paper",
+        "pos": 0.0646,
+        "neg": 0.0231,
+        "comp": 0.25802
+    },
+    {
+        "company": "Share India Sec.",
+        "pos": 0.1436,
+        "neg": 0.014500000000000002,
+        "comp": 0.57845
+    },
+    {
+        "company": "K.P. Energy",
+        "pos": 0.1842,
+        "neg": 0.020700000000000003,
+        "comp": 0.59124
+    },
+    {
+        "company": "Apar Inds.",
+        "pos": 0.062,
+        "neg": 0.0262,
+        "comp": 0.19362000000000004
+    },
+    {
+        "company": "Focus Lighting",
+        "pos": 0.14490000000000003,
+        "neg": 0.0055,
+        "comp": 0.61963
+    },
+    {
+        "company": "Ingersoll-Rand",
+        "pos": 0.1726,
+        "neg": 0.0091,
+        "comp": 0.6434900000000001
+    },
+    {
+        "company": "Permanent Magnet",
+        "pos": 0.13970000000000002,
+        "neg": 0.0,
+        "comp": 0.61517
+    },
+    {
+        "company": "Sonata Software",
+        "pos": 0.08080000000000001,
+        "neg": 0.0299,
+        "comp": 0.20296999999999996
+    },
+    {
+        "company": "Expleo Solutions",
+        "pos": 0.1113,
+        "neg": 0.019,
+        "comp": 0.40178
+    },
+    {
+        "company": "Coromandel Inter",
+        "pos": 0.0738,
+        "neg": 0.0,
+        "comp": 0.35997
+    },
+    {
+        "company": "Cigniti Tech.",
+        "pos": 0.08855555555555557,
+        "neg": 0.029555555555555557,
+        "comp": 0.336
+    },
+    {
+        "company": "Sharda Motor",
+        "pos": 0.143,
+        "neg": 0.0432,
+        "comp": 0.45015
+    },
+    {
+        "company": "Avantel",
+        "pos": 0.17270000000000002,
+        "neg": 0.0142,
+        "comp": 0.59594
+    },
+    {
+        "company": "Seshasayee Paper",
+        "pos": 0.1642,
+        "neg": 0.0132,
+        "comp": 0.66432
+    },
+    {
+        "company": "Fineotex Chem",
+        "pos": 0.10839999999999998,
+        "neg": 0.0052,
+        "comp": 0.5089600000000001
+    },
+    {
+        "company": "Solar Industries",
+        "pos": 0.10369999999999999,
+        "neg": 0.045899999999999996,
+        "comp": 0.19771
+    },
+    {
+        "company": "JTL Industries",
+        "pos": 0.1361,
+        "neg": 0.0,
+        "comp": 0.61182
+    },
+    {
+        "company": "Network People",
+        "pos": 0.15,
+        "neg": 0.004,
+        "comp": 0.5748800000000001
+    },
+    {
+        "company": "Asian Paints",
+        "pos": 0.14179999999999998,
+        "neg": 0.0153,
+        "comp": 0.59874
+    },
+    {
+        "company": "D-Link India",
+        "pos": 0.09330000000000001,
+        "neg": 0.031,
+        "comp": 0.24203000000000002
+    },
+    {
+        "company": "Bayer Crop Sci.",
+        "pos": 0.056600000000000004,
+        "neg": 0.08560000000000001,
+        "comp": -0.08790999999999996
+    },
+    {
+        "company": "Stylam Industrie",
+        "pos": 0.0761,
+        "neg": 0.038400000000000004,
+        "comp": 0.23706999999999998
+    },
+    {
+        "company": "BLS Internat.",
+        "pos": 0.1133,
+        "neg": 0.028800000000000003,
+        "comp": 0.43738
+    },
+    {
+        "company": "Gujarat Gas",
+        "pos": 0.12090000000000001,
+        "neg": 0.034,
+        "comp": 0.50229
+    },
+    {
+        "company": "Vinati Organics",
+        "pos": 0.08750000000000002,
+        "neg": 0.027100000000000003,
+        "comp": 0.28385000000000005
+    },
+    {
+        "company": "AGI Infra",
+        "pos": 0.1633,
+        "neg": 0.0214,
+        "comp": 0.57261
+    },
+    {
+        "company": "Glenmark Life",
+        "pos": 0.121,
+        "neg": 0.0252,
+        "comp": 0.48035000000000005
+    },
+    {
+        "company": "Saksoft",
+        "pos": 0.07360000000000001,
+        "neg": 0.0,
+        "comp": 0.38863000000000003
+    },
+    {
+        "company": "Alkyl Amines",
+        "pos": 0.097,
+        "neg": 0.0,
+        "comp": 0.46026
+    },
+    {
+        "company": "Ratnamani Metals",
+        "pos": 0.10490000000000002,
+        "neg": 0.033100000000000004,
+        "comp": 0.35540000000000005
+    },
+    {
+        "company": "Polycab India",
+        "pos": 0.1447,
+        "neg": 0.0349,
+        "comp": 0.48949
+    },
+    {
+        "company": "Guj.St.Petronet",
+        "pos": 0.09230000000000001,
+        "neg": 0.0548,
+        "comp": 0.13604
+    },
+    {
+        "company": "Sr.Rayala.Hypo",
+        "pos": NaN,
+        "neg": NaN,
+        "comp": NaN
+    },
+    {
+        "company": "Caplin Point Lab",
+        "pos": 0.1347,
+        "neg": 0.014900000000000002,
+        "comp": 0.5982199999999999
+    },
+    {
+        "company": "Axtel Industries",
+        "pos": 0.1278,
+        "neg": 0.010400000000000001,
+        "comp": 0.61124
+    },
+    {
+        "company": "Chamanlal Setia",
+        "pos": 0.08762500000000001,
+        "neg": 0.006,
+        "comp": 0.4266625
+    },
+    {
+        "company": "KEI Industries",
+        "pos": 0.059,
+        "neg": 0.0067,
+        "comp": 0.24166999999999997
+    },
+    {
+        "company": "AIA Engineering",
+        "pos": 0.1166,
+        "neg": 0.0035000000000000005,
+        "comp": 0.5585
+    },
+    {
+        "company": "Integra Engg.",
+        "pos": 0.1026,
+        "neg": 0.0,
+        "comp": 0.53946
+    },
+    {
+        "company": "Dixon Technolog.",
+        "pos": 0.0914,
+        "neg": 0.0435,
+        "comp": 0.23107000000000003
+    },
+    {
+        "company": "Galaxy Surfact.",
+        "pos": 0.10759999999999999,
+        "neg": 0.013800000000000002,
+        "comp": 0.43599000000000004
+    },
+    {
+        "company": "Agarwal Indl.",
+        "pos": 0.11710000000000001,
+        "neg": 0.022,
+        "comp": 0.5127300000000001
+    },
+    {
+        "company": "Jash Engineering",
+        "pos": 0.1469,
+        "neg": 0.017499999999999998,
+        "comp": 0.5568099999999999
+    },
+    {
+        "company": "J B Chem & Pharm",
+        "pos": 0.057100000000000005,
+        "neg": 0.016800000000000002,
+        "comp": 0.20417000000000002
+    },
+    {
+        "company": "Marksans Pharma",
+        "pos": 0.12260000000000001,
+        "neg": 0.013500000000000002,
+        "comp": 0.5616700000000001
+    },
+    {
+        "company": "Sona BLW Precis.",
+        "pos": 0.0426,
+        "neg": 0.0313,
+        "comp": 0.05167000000000001
+    },
+    {
+        "company": "Route Mobile",
+        "pos": 0.08940000000000001,
+        "neg": 0.013500000000000002,
+        "comp": 0.33757
+    },
+    {
+        "company": "P I Industries",
+        "pos": 0.14450000000000002,
+        "neg": 0.0171,
+        "comp": 0.5511299999999999
+    },
+    {
+        "company": "Indigo Paints",
+        "pos": 0.1131,
+        "neg": 0.0,
+        "comp": 0.55331
+    },
+    {
+        "company": "GNA Axles",
+        "pos": 0.1412,
+        "neg": 0.0,
+        "comp": 0.5962099999999999
+    },
+    {
+        "company": "Tega Inds.",
+        "pos": 0.1028,
+        "neg": 0.0123,
+        "comp": 0.46154
+    },
+    {
+        "company": "ICICI Lombard",
+        "pos": 0.11710000000000001,
+        "neg": 0.0121,
+        "comp": 0.47263
+    },
+    {
+        "company": "Adani Total Gas",
+        "pos": 0.1872,
+        "neg": 0.0,
+        "comp": 0.7531800000000001
+    },
+    {
+        "company": "Hind.Oil Explor.",
+        "pos": 0.1854,
+        "neg": 0.047,
+        "comp": 0.5868800000000001
+    },
+    {
+        "company": "Affle India",
+        "pos": 0.1058,
+        "neg": 0.015099999999999999,
+        "comp": 0.39768
+    },
+    {
+        "company": "Transpek Inds.",
+        "pos": 0.13999999999999999,
+        "neg": 0.0,
+        "comp": 0.5379
+    },
+    {
+        "company": "Granules India",
+        "pos": 0.11879999999999999,
+        "neg": 0.06499999999999999,
+        "comp": 0.22587000000000002
+    },
+    {
+        "company": "Poly Medicure",
+        "pos": 0.07339999999999999,
+        "neg": 0.0103,
+        "comp": 0.3236800000000001
+    },
+    {
+        "company": "Vidhi Specialty",
+        "pos": 0.08500000000000002,
+        "neg": 0.0252,
+        "comp": 0.30352999999999997
+    },
+    {
+        "company": "ADF Foods",
+        "pos": 0.060799999999999986,
+        "neg": 0.0222,
+        "comp": 0.22448
+    },
+    {
+        "company": "Latent View",
+        "pos": 0.0448,
+        "neg": 0.0179,
+        "comp": 0.15376
+    },
+    {
+        "company": "Aarti Drugs",
+        "pos": 0.0388,
+        "neg": 0.0391,
+        "comp": -0.02016000000000001
+    },
+    {
+        "company": "IOL Chemicals",
+        "pos": 0.11710000000000002,
+        "neg": 0.0,
+        "comp": 0.5349299999999999
+    }
+]
